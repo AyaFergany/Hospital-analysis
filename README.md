@@ -10,18 +10,18 @@ After that I used Power BI DAX for analysis,
 
 Complete healthcare project and used
 
--Column chart
+- Column chart
 
--Bar Chart
+- Bar Chart
 
--Area chart
+- Area chart
 
--Measures
+- Measures
 
--Gauge
+- Gauge
 
--Card
+- Card
 
--Table
+- Table
 
--Pie Chart
+- Pie Chart
